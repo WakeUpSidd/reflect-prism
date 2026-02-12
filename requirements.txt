@@ -1,0 +1,12 @@
+numpy==1.26.4
+pillow
+tqdm
+pyyaml
+einops
+imageio
+albumentations
+timm
+transformers
+opencv-python-headless
+matplotlib
+datasets
